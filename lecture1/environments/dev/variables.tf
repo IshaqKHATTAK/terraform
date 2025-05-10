@@ -1,7 +1,6 @@
 variable "AWS_REGION" {
     type = string
     description = "aws region for deployemnts"
-  
 }
 
 variable "INSTANCE_TYPE" {
